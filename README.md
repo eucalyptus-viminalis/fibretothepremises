@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [my blog](https://sparky.blog/)
-- 🌱 I’m currently learning some languages like Java and JavaScript
+- 🔭 I’m currently building a audio marketplace for music nerds.
+- 🌱 I’m currently watching a bunch of YT videos on DeFi, crypto, Ethereum, NFT's... there's a lot to learn in this new space I'm exploring!!!
 - 👯 I like writing documentation
 - 💬 Ask me about my app ideas!
-- 📫 How to reach me: Add me on Discord
-sparky#8088
+- 📫 How to reach me: add me on Telegram +61 459 221 032 (Sparky - that's me!)
